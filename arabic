@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'kfgqpc_uthmanic_script_hafsRg';
+    src: url('kfgqpc_uthmanic_script_hafs_regular-webfont.woff2') format('woff2'),
+         url('kfgqpc_uthmanic_script_hafs_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'kfgqpc_uthman_taha_naskhRg';
+    src: url('kfgqpc_uthman_taha_naskh_regular-webfont.woff2') format('woff2'),
+         url('kfgqpc_uthman_taha_naskh_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
